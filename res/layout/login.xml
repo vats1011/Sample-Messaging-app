@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="25dp" >
+
+    <ImageView
+        android:id="@+id/logo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:src="@drawable/abc_ab_bottom_solid_dark_holo" />
+
+    <EditText
+        android:id="@+id/etloginname"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Name"
+        android:padding="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" >
+    </EditText>
+    <EditText
+        android:id="@+id/etuser"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="User Id"
+        
+        android:padding="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/etloginemail"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Email address"
+        android:inputType="textEmailAddress"
+        android:padding="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <EditText
+        android:id="@+id/etloginphone"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Phone number"
+        
+        android:padding="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/blogin"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Login"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <Button
+        android:id="@+id/bCreate"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:padding="10dp"
+        android:text="Create Account"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>

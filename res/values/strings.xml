@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">snup</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="titles">
+        <item >Hiking</item>
+        <item >Biking</item>
+        <item >Book</item>
+    </string-array>
+    <string-array name="description">
+        <item >Hiking group</item>
+        <item >Biking Group</item>
+        <item >book group</item>
+    </string-array>
+    <string-array name="mem">
+        <item >69 members</item>
+        <item >96 members</item>
+        <item >76 members</item>
+    </string-array>
+    <string-array name="BigDes">
+        <item >This is a big description This is a big description This is a big description This is a big description This is a big description This is a big description This is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big description</item>
+ 		<item >This is a big description This is a big description This is a big description This is a big description This is a big description This is a big description This is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big description</item>   
+    	<item >This is a big description This is a big description This is a big description This is a big description This is a big description This is a big description This is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big descriptionThis is a big description</item>
+    </string-array>
+
+</resources>
